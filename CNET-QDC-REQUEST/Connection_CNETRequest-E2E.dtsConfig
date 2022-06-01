@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<DTSConfiguration><DTSConfigurationHeading>
+	<DTSConfigurationFileInfo GeneratedBy="PIONE0\palaninew" GeneratedFromPackageName="CNET-QDC-REQUEST" GeneratedFromPackageID="{69EA76D9-DCB6-4037-80B2-BF0281692FCA}" GeneratedDate="1/12/2022 3:17:13 PM"/>
+</DTSConfigurationHeading>
+	<Configuration ConfiguredType="Property" Path="\Package.Connections[DestinationDB CNET].Properties[ConnectionString]" ValueType="String">
+		<ConfiguredValue>Data Source=qoipr.database.windows.net;User ID=qoipradmin;Initial Catalog=CNET;Password=QoipR242002;Provider=SQLNCLI11.1;Auto Translate=False;</ConfiguredValue>
+	</Configuration><Configuration ConfiguredType="Property" Path="\Package.Connections[SourceDB QDC].Properties[ConnectionString]" ValueType="String">
+		<ConfiguredValue>Data Source=164.52.218.134;User ID=sa;Password=Pione@123;Initial Catalog=QDCUAT;Provider=SQLNCLI11.1;Auto Translate=False;</ConfiguredValue>
+	</Configuration></DTSConfiguration>

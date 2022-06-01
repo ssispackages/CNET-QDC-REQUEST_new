@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectInfo>
+    <Name>CNET-QDC-REQUEST</Name>
+    <LastWriteTime>2022-04-06T14:26:55.7512347Z</LastWriteTime>
+    <LastKnownProtectionLevel>EncryptAllWithPassword</LastKnownProtectionLevel>
+    <Salt>nVkm/pPx</Salt>
+    <LastKnownProtectedHashedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAHZi28n77ZkSNUq981arfoAAAAAACAAAAAAADZgAAwAAAABAAAAAhfbKpZAXYxtN8EIs6liVfAAAAAASAAACgAAAAEAAAAL4b/OAjzBNpuXqO6wk795goAAAASokym08UklFkW47UEN61+Ae+gkd/1r0x5fmkkMASyo9tq20ZCts1kxQAAAD/EnlmnOx4P7bDs40iEnJcjwYmqQ==</LastKnownProtectedHashedPassword>
+  </ProjectInfo>
+  <LastBuildInfos>
+    <ProjectBuildItemInfo>
+      <Name>QDCtoCNET-Request-SYNC.dtsx</Name>
+      <LastWriteTime>2022-05-04T17:22:41.5346686Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptAllWithPassword</LastKnownProtectionLevel>
+      <Salt>1YpdH3PH</Salt>
+      <LastKnownProtectedHashedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAHZi28n77ZkSNUq981arfoAAAAAACAAAAAAADZgAAwAAAABAAAAArTY/cZdQnCxw0zM0Ad8d7AAAAAASAAACgAAAAEAAAAGMVT2iPRtQJdmDffxwXtvQoAAAAV/HCnu5MqPOJrjPIhM8WkegMuWATAxXad0rsxUSIBeoHVkJSWym4WRQAAABKDG5c0+K4+fBHb1l5Wn7oagSNCA==</LastKnownProtectedHashedPassword>
+    </ProjectBuildItemInfo>
+  </LastBuildInfos>
+</BuildLog>
